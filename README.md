@@ -9,8 +9,11 @@ Insights:
 
 
 -Embora as hidrelétricas ainda desempenhem um papel significativo, as novas fontes renováveis, como o solar e o vento, enquanto isso a as não renováveis tendem apenas cair com o passar dos anos, tambem em função das leis e tratados contra o aquecimento global
+
 -O aumento do uso de energia renovável cria uma demanda maior por empresas que fornecem instalação e manutenção dessas tecnologias.
+
 -Podemos usar IA para prever a geraçao de energia e distribuir a carga de forma mais eficiente
+
 -Plataformas de monitoramento de energia residencial estão ganhando popularidade para otimizar o uso de energia solar e eólica devido ao aumento de procuro de energia renovável, o que é uma ótima ideia de negócio 
 
 
